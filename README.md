@@ -1,4 +1,4 @@
-### Hey! Eu sou a Gabrielle 👋
+### Hey! I'm Gabrielle 👋
 
 <div align="center">
   <a href="https://github.com/Gbiiandrad">
@@ -7,7 +7,7 @@
 
 ##
 
-### 📖 Estou estudando:
+### 📖 studying:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
