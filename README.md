@@ -37,11 +37,11 @@
 </div>
 
 
-##
+### Connect with me:
  
 <div> 
-  <a href = "mailto:gabii12303.net@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielle-andrade-da-silva-3a50251a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabrielle-andrade-da-silva-3a50251a1/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabrielle-andrade-da-silva-3a50251a1/" height="30" width="40" />
 
 
   <img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
