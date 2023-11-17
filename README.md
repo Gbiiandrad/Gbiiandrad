@@ -81,11 +81,11 @@
 ### Connect with me:
  
 <div> 
-  <a href="https://www.linkedin.com/in/gabrielle-andrade-da-silva-3a50251a1/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/gabrielle-andrade-da-silva-3a50251a1/" />
+  <a href="https://www.linkedin.com/in/gabrielle-andrade-3a50251a1/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gabii12303.net@gmail.com.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="https://www.linkedin.com/in/gabrielle-andrade-da-silva-3a50251a1/" />   
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />   
   </a>
     <img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
 
