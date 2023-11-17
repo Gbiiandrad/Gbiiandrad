@@ -1,57 +1,95 @@
 ### Hey! I'm Gabrielle 👋
-  
-  <div align="center">
+<img align="right" height="150" style="border-radius:px;" src="https://media.discordapp.net/attachments/754409297089134615/999808371098140762/picasion.com_066518888c8826b7612888f2dba5a1a7.gif">
+
+- 🔰 I'm Araçatuba - SP, Brazil.
+- ⚡ I love music and technology.
+- 🧠 Full stack web development student Dev Club
+
+##
+
+#### Statistics:
+<div>
   <a href="https://github.com/Gbiiandrad">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gbiiandrad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbiiandrad&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbiiandrad&layout=compact&langs_count=7&theme=radical"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=Gbiiandrad&show_icons=true&include_all_commits=true&theme=radical"/>
+</a>
 </div>
 
+##
 
-### 📖 Languages and Tools:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabi-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Gabi-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabi-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gabi-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabi-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabi-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabi-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gabi-Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Gabi-bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"><br>
-  <img align="center" alt="Gabi-kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Gabi-docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Gabi-linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Gabi-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Gabi-nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Gabi-php" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Gabi-sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Gabi-spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Gabi-typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-          
-  
-          
-  
-  
-  <img align="right" height="150" style="border-radius:px;" src="https://media.discordapp.net/attachments/754409297089134615/999808371098140762/picasion.com_066518888c8826b7612888f2dba5a1a7.gif">
+#### I'm learning about:
+<div>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+  <img src="https://skillicons.dev/icons?i=html"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+  <img src="https://skillicons.dev/icons?i=css"/>
+</a>
+<a href="https://sass-lang.com">
+  <img src="https://skillicons.dev/icons?i=sass"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=js"/>
+</a>
+<a href="https://www.typescriptlang.org/pt/">
+  <img src="https://skillicons.dev/icons?i=ts"/>
+</a>
+<a href="https://pt-br.react.dev">
+  <img src="https://skillicons.dev/icons?i=react"/>
+</a>
+<a href="https://npmjs.com">
+  <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
+</a>
+<a href="https://nodejs.org">
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
+</a>
+<a href="https://www.postgresql.org">
+  <img src="https://skillicons.dev/icons?i=postgres"/>
+</a>
 </div>
 
+##
+
+#### Tools I use:
+<div>
+<a href="https://code.visualstudio.com" >
+  <img src="https://skillicons.dev/icons?i=vscode"/>
+</a>
+
+<a href="https://github.com/pt" >
+  <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+<a href="https://git-scm.com" >
+  <img src="https://skillicons.dev/icons?i=git"/>
+</a>
+<a href="https://vercel.com" >
+  <img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+<a href="https://azure.microsoft.com/pt-br/products/devops/" >
+  <img src="https://skillicons.dev/icons?i=azure"/>
+</a>
+<a href="https://www.figma.com" >
+  <img src="https://skillicons.dev/icons?i=figma"/>
+</a>
+<a href="https://www.adobe.com/br/products/photoshop.html" >
+  <img src="https://skillicons.dev/icons?i=ps"/>
+</a>
+</div>
+
+##
 
 ### Connect with me:
  
 <div> 
   <a href="https://www.linkedin.com/in/gabrielle-andrade-da-silva-3a50251a1/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabrielle-andrade-da-silva-3a50251a1/" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/gabrielle-andrade-da-silva-3a50251a1/" />
+  </a>
+  <a href="mailto:gabii12303.net@gmail.com.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="https://www.linkedin.com/in/gabrielle-andrade-da-silva-3a50251a1/" />   
+  </a>
+    <img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
 
-
-  <img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
-  
-  <!--  ![Snake animation](https://github.com/Gbiiandrad/Gbiiandrad/blob/output/github-contribution-grid-snake.svg) -->
-
-
-
-
-
+   <!-- ![Snake animation](https://github.com/Gbiiandrad/Gbiiandrad/blob/output/github-contribution-grid-snake.svg) -->
 </div> 
 
 
