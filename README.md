@@ -87,8 +87,9 @@
   <a href="mailto:gabii12303.net@gmail.com.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />   
   </a>
-    <img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
 
+  ![snake gif](https://github.com/Gbiiandrad/Gbiiandrad/blob/output/github-contribution-grid-snake.svg)
+   <!-- <img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />-->
    <!-- ![Snake animation](https://github.com/Gbiiandrad/Gbiiandrad/blob/output/github-contribution-grid-snake.svg) -->
 </div> 
 
